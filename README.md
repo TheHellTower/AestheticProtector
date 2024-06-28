@@ -23,8 +23,10 @@
     - [ ] Anti
         - [ ] Debug
 - [ ] Resources Compression and/or Encryption
-- [x] Strings (`Special Anti-Invoke with regular one.`)
-- [ ] Strip Debug Information(Renaming, etc..)
+- [x] Strings (`Special Anti-Invoke & regular one.`)
+- [ ] Strip Debug Information
+    - [x] Renamer
+    - [ ] (Need to figure out all the debug information)
 - [x] [Virtualization](https://t.me/TheHellTower_Group/30/7410)
 
 Useless Ones
